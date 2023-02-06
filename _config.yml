@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+title: MAPOL website
+description: Many-Body Methods, Spectroscopies, and Dynamics for Molecular Polaritonic Systems
 
 gems:
   - jekyll-mentions

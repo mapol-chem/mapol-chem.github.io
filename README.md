@@ -27,7 +27,7 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 
 2. N. Vu, D. Mejia-Rodriguez, Nicholas P. Bauman, A. Panyala, E. Mutlu, N. Govind, J. Foley, **Cavity Quantum Electrodynamics Complete Active Space Configuration Interaction Theory**, J. Chem. Theory. Comput, 20, 1214-1227 (2024), https://doi.org/10.1021/acs.jctc.3c01207
 
-3. RR. Manderna, N. Vu, J. Foley, **Comparing parameterized and self-consistent approaches to ab initio CQED for molecular polaritonic systems** (ChemRxiv 10.26434/chemrxiv-2024-4xc02, 2024)
+3. RR. Manderna, N. Vu, J. Foley, **Comparing parameterized and self-consistent approaches to ab initio CQED for molecular polaritonic systems**, J. Chem. Phys. 161, 174105 (2024), https://pubs.aip.org/aip/jcp/article/161/17/174105/3318463
 
 4. H. Pathak, A. Panyala, N.P. Bauman, D. Mejia-Rodriguez, N. Govind, K. Kowalski, **Quantum Electrodynamics Coupled-Cluster Theory: Exploring Photon-Induced Electron Correlations**, https://arxiv.org/abs/2409.06858
 
@@ -40,3 +40,5 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 9. E.J. Bylaska, A. Panyala, B. Peng, D. Mejia-Rodriguez, N. Govind, K. Kowalski, et al. **Electronic structure simulations in cloud computing environment**, J. Chem. Phys. 161, 150902 (2024), https://pubs.aip.org/aip/jcp/article/161/15/150902/3317271
 
 ### Acknowledgements
+
+The Center for Many-Body Methods, Spectroscopies, and Dynamics for Molecular Polaritonic Systems (MAPOL) is funded under FWP 79715, which is funded as part of the Computational Chemical Sciences (CCS) program by the U.S. Department ofEnergy, Office of Science, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences at Pacific Northwest National Laboratory (PNNL). PNNL is a multiprogram national laboratory operated by Battelle Memorial Institute for the United States Department ofEnergy under DOE contract number DE-AC05-76RL1830.

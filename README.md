@@ -22,6 +22,20 @@ Our vision is to (1) develop a suite of theoretical frameworks, spanning low-ord
 
 ### Publications
 
-1. Matoušek, Mikuláš; Vu, Nam; Govind, Niranjan; Foley, Jonathan J. IV; Veis, Libor. **Polaritonic Chemistry Using the Density Matrix Renormalization Group Method.** Journal of Chemical Theory and Computation (Oct 2024) [DOI:10.1021/acs.jctc.4c00986](https://doi.org/10.1021/acs.jctc.4c00986)
+1. S. Banerjee, T. Zhang, K. G. Dyall, X. Li, **Relativistic Resolution-of-the-Identity with Cholesky Integral Decomposition**, J. Chem. Phys., 2023, 159, 114119
+
+2. N. Vu, D. Mejia-Rodriguez, Nicholas P. Bauman, A. Panyala, E. Mutlu, N. Govind, J. Foley, **Cavity Quantum Electrodynamics Complete Active Space Configuration Interaction Theory** J. Chem. Theory. Comput, 2024, 20, 1214-1227, https://doi.org/10.1021/acs.jctc.3c01207
+
+3. RR. Manderna, N. Vu, J. Foley, **Comparing parameterized and self-consistent approaches to ab initio CQED for molecular polaritonic systems** (ChemRxiv 10.26434/chemrxiv-2024-4xc02, 2024)
+
+4. H. Pathak, A. Panyala, N.P. Bauman, D. Mejia-Rodriguez, N. Govind, K. Kowalski, **Quantum Electrodynamics Coupled-Cluster Theory: Exploring Photon-Induced Electron Correlations** in preparation (to be submitted to Phys. Rev. A). We have run the largest QED-CCSD calculation to date on the nitroaniline system (aug-cc-pVQZ basis set, 1056 basis functions). This calculation was performed on the Aurora supercomputer at ALCF at Argonne National Laboratory using our CPU/GPU implementation of QED-CCSD within the ExaChem framework.
+
+5. D. Mejia-Rodriguez, N. Vu, J. Foley, N. Govind, **Real-Time Time-Dependent Cavity Quantum Electrodynamics in Gaussian Basis** (to be submitted to JCTC)
+
+6. D. Mejia-Rodriguez, N. Govind, **Non-Local Correlation Functional from the Jellium with a Local Gap Model** (in preparation)
+
+7. E.J. Bylaska, A. Panyala, B. Peng, D. Mejia-Rodriguez, N. Govind, K. Kowalski, et al. **Electronic structure simulations in cloud computing environment** in preparation (to be submitted to J. Chem. Phys. as a perspective paper)
+
+8. Matoušek, Mikuláš; Vu, Nam; Govind, Niranjan; Foley, Jonathan J. IV; Veis, Libor. **Polaritonic Chemistry Using the Density Matrix Renormalization Group Method.** Journal of Chemical Theory and Computation (Oct 2024) [DOI:10.1021/acs.jctc.4c00986](https://doi.org/10.1021/acs.jctc.4c00986)
 
 ### Acknowledgements

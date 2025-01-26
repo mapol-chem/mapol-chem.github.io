@@ -22,6 +22,6 @@ Our vision is to (1) develop a suite of theoretical frameworks, spanning low-ord
 
 ### Publications
 
-1. Matoušek, Mikuláš; Vu, Nam; Govind, Niranjan; Foley, Jonathan J. IV; Veis, Libor. **Polaritonic Chemistry Using the Density Matrix Renormalization Group Method.** [DOI:10.1021/acs.jctc.4c00986](https://doi.org/10.1021/acs.jctc.4c00986)
+1. Matoušek, Mikuláš; Vu, Nam; Govind, Niranjan; Foley, Jonathan J. IV; Veis, Libor. **Polaritonic Chemistry Using the Density Matrix Renormalization Group Method.** Journal of Chemical Theory and Computation (Oct 2024) [DOI:10.1021/acs.jctc.4c00986](https://doi.org/10.1021/acs.jctc.4c00986)
 
 ### Acknowledgements

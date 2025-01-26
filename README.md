@@ -25,9 +25,9 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 
 1. S. Banerjee, T. Zhang, K. G. Dyall, X. Li, **Relativistic Resolution-of-the-Identity with Cholesky Integral Decomposition**, J. Chem. Phys., 159, 114119 (2023), https://pubs.aip.org/aip/jcp/article/159/11/114119/2911780
 
-2. N. Vu, D. Mejia-Rodriguez, Nicholas P. Bauman, A. Panyala, E. Mutlu, N. Govind, J. Foley, **Cavity Quantum Electrodynamics Complete Active Space Configuration Interaction Theory**, J. Chem. Theory. Comput, 20, 1214-1227 (2024), https://doi.org/10.1021/acs.jctc.3c01207
+2. N. Vu, D. Mejia-Rodriguez, N. P. Bauman, A. Panyala, E. Mutlu, N. Govind, J. Foley, **Cavity Quantum Electrodynamics Complete Active Space Configuration Interaction Theory**, J. Chem. Theory. Comput, 20, 1214-1227 (2024), https://doi.org/10.1021/acs.jctc.3c01207
 
-3. RR. Manderna, N. Vu, J. Foley, **Comparing parameterized and self-consistent approaches to ab initio CQED for molecular polaritonic systems**, J. Chem. Phys. 161, 174105 (2024), https://pubs.aip.org/aip/jcp/article/161/17/174105/3318463
+3. R. R. Manderna, N. Vu, J. Foley, **Comparing parameterized and self-consistent approaches to ab initio CQED for molecular polaritonic systems**, J. Chem. Phys. 161, 174105 (2024), https://pubs.aip.org/aip/jcp/article/161/17/174105/3318463
 
 4. H. Pathak, A. Panyala, N.P. Bauman, D. Mejia-Rodriguez, N. Govind, K. Kowalski, **Quantum Electrodynamics Coupled-Cluster Theory: Exploring Photon-Induced Electron Correlations**, https://arxiv.org/abs/2409.06858
 
@@ -35,7 +35,7 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 
 6. D. Mejia-Rodriguez, N. Govind, **A meta-generalized gradient approximation exchange-correlation functional for strongly coupled light-matter systems** (in preparation)
 
-8. Matoušek, Mikuláš; Vu, Nam; Govind, Niranjan; Foley, Jonathan J. IV; Veis, Libor. **Polaritonic Chemistry Using the Density Matrix Renormalization Group Method.**, J. Chem. Theory Comput, 20, 9424−9434 (2024), https://doi.org/10.1021/acs.jctc.4c00986
+8. M. Matoušek, N. Vu, N. Govind, J. J. Foley, L. Veis, **Polaritonic Chemistry Using the Density Matrix Renormalization Group Method.**, J. Chem. Theory Comput, 20, 9424−9434 (2024), https://doi.org/10.1021/acs.jctc.4c00986
 
 9. E.J. Bylaska, A. Panyala, B. Peng, D. Mejia-Rodriguez, N. Govind, K. Kowalski, et al. **Electronic structure simulations in cloud computing environment**, J. Chem. Phys. 161, 150902 (2024), https://pubs.aip.org/aip/jcp/article/161/15/150902/3317271
 

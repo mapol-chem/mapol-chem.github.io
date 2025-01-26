@@ -1,1 +1,1 @@
-# mapol-chem.github.io
+# MAPOL

@@ -36,7 +36,7 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 12. R. R. Manderna, P. Roden, L. Tolley, N. Vu, J. J. Foley IV, **Computational Modeling of Polariton Chemistry**, American Chemical Society (2025), https://pubs.acs.org/doi/book/10.1021/acsinfocus.7e8013
 
 ### Outreach
-In June 2024, the MAPOL team launched a computational chemistry workshop with MolSSI and the Department of Chemistry at University of North Carolina, Charlotte for undergraduate and graduate students. https://pages.charlotte.edu/molssi-mapol-workshop/ 
+In June 2024, the MAPOL team launched a computational chemistry workshop with the Molecular Science Software Institute (MolSSI) and the Department of Chemistry at University of North Carolina, Charlotte for undergraduate and graduate students. https://pages.charlotte.edu/molssi-mapol-workshop/ 
 
 ### Acknowledgements
 

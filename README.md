@@ -1,4 +1,4 @@
-# MAPOL
+# Many-Body Methods, Spectroscopies, and Dynamics for Molecular Polaritonic Systems (MAPOL)
 
 ## Overview
 

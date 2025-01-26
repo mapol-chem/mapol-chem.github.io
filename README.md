@@ -14,6 +14,12 @@ Our vision is to (1) develop a suite of theoretical frameworks, spanning low-ord
 
 ### Team
 
+- **Niranjan “Niri” Govind (Principal Investigator, PNNL)** is recognized for important contributions  to the development of linear and nonlinear spectroscopy methods based on real-time and linear-response  time-dependent density functional theory, X-ray spectroscopies, ultrafast dynamics, many-body methods,  embedding approaches, optimizers, orbital-free DFT, and applications to photoexcited molecular  complexes and materials. 
+- **Karol Kowalski (co-PI, PNNL)** is an expert in advancing electronic structure methods and highly  scalable implementations of correlated many-body methods. He is recognized for important contributions  in CC theory including renormalized CC theories, multireference formulations, equation-of-motion linear response CC methods, and CC Green’s function formulations.  
+- **Jonathan Foley (co-PI, University of North Carolina, Charlotte)** brings expertise in multiscale theory and modeling of light–matter  interactions and nanophotonics phenomena. He has developed novel theoretical methodologies combining  ab initio quantum chemistry with non-Hermitian cavity QED models leading to predictive theories for  polaritonic chemistry with explicit inclusion of photonic loss.  
+- **Xiaosong Li (co-PI, University of Washington, Seattle)** is well known for his contributions to the  development of time-dependent electronic structure theory, relativistic many-body methods, and quantum dynamics. Li is also recognized for his important work in high-performance scientific software engineering,  numerical eigensolvers, and high-performance optimizers. 
+ 
+
 ### Publications
 
 ### Acknowledgements

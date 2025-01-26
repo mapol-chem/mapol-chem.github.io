@@ -4,6 +4,10 @@
 ### Overview
 
 <img src="./images/mapol.jpeg" align="right" width="20%"/>
+
+Light when nanoconfined in cavities and made to interact strongly with molecules results in hybrid light–matter states or polaritons, which can be used to modify and manipulate ground and excited-state potential energy surfaces and thus alter the reactivity and energy flow profoundly in molecular systems.
+The development of predictive theories for molecular polaritons requires combining electronic degrees of freedom, as provided by quantum chemistry methods, with quantum electrodynamics (QED) treatments of the photonic degrees of freedom.
+
 Our vision is to (1) develop a suite of theoretical frameworks, spanning low-order to high-level many-body  methods, that will provide unprecedented ability to capture the structure and dynamics of molecular  polaritonic systems, (2) deliver scalable software source code and libraries that can harness leadership-class  computational facilities (LCFs), and (3) nurture a community of practitioners in computational molecular  sciences. In pursuit of this vision, we propose three project objectives to guide our research program. 
 
 

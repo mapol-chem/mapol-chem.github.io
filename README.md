@@ -22,7 +22,7 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
  
 ### Publications
 
-1. S. Banerjee, T. Zhang, K. G. Dyall, X. Li, **Relativistic Resolution-of-the-Identity with Cholesky Integral Decomposition**, J. Chem. Phys., 159, 114119 (2023), [[Paper]](https://pubs.aip.org/aip/jcp/article/159/11/114119/2911780)
+1. S. Banerjee, T. Zhang, K. G. Dyall, X. Li, **Relativistic Resolution-of-the-Identity with Cholesky Integral Decomposition**, J. Chem. Phys., 159, 114119 (2023), [[link]](https://pubs.aip.org/aip/jcp/article/159/11/114119/2911780)
 2. J. J. Foley IV, J. McTague, A. E. DePrince, **Ab initio Methods for Polariton Chemistry**, Chem. Phys. Rev. 4, 041301 (2023), https://doi.org/10.1063/5.0167243  
 3. B. Peng, Y. Su, D. Claudino, K. Kowalski, G. H. Low, M. Roetteler, **Quantum Simulation of Boson-Related Hamiltonians: Techniques, Effective Hamiltonian Construction, and Error Analysis** (2023), https://arxiv.org/abs/2307.06580  
 4. N. Vu, D. Mejia-Rodriguez, N. P. Bauman, A. Panyala, E. Mutlu, N. Govind, J. J. Foley IV, **Cavity Quantum Electrodynamics Complete Active Space Configuration Interaction Theory**, J. Chem. Theory. Comput, 20, 1214-1227 (2024), https://doi.org/10.1021/acs.jctc.3c01207

@@ -1,7 +1,5 @@
 
-## MAny-Body Methods, Spectroscopies, and Dynamics for Molecular **POL**aritonic Systems (MAPOL)
-
-### Overview
+## Overview
 
 <img src="./images/mapol.jpeg" align="right" width="30%"/>
 
@@ -13,14 +11,14 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 - **Objective 2:** Implement  polaritonic many-body methods to fully utilize modern heterogeneous (CPU/GPU) high-performance computing platforms at DOE’s LCFs.  
 - **Objective 3:** Apply developed methods to molecular polaritonic systems to validate, benchmark, and assess our developments with  reference systems, progressing to advanced applications to complement experiments to enhance fundamental understanding of polaritonic chemistry. 
 
-### Team
+## Team
 
 **Pacific Northwest National Laboratory:** Niranjan “Niri” Govind (PI), Karol Kowalski (co-PI), Nicholas Bauman, Daniel Mejia-Rodriguez, Ajay Panyala, Erdal Mutlu, Marcus Liebenthal  
 **University of North Carolina, Charlotte:** Jonathan "Jay" Foley (co-PI), Nam Vu, Ruby Manderna  
 **University of Washington, Seattle:** Xiaosong Li (co-PI)  
 **J. Heyrovsky Institute of Physical Chemistry:** Libor Veis, M. Matoušek  
  
-### Publications
+## Publications
 
 1. S. Banerjee, T. Zhang, K. G. Dyall, X. Li, **Relativistic Resolution-of-the-Identity with Cholesky Integral Decomposition**, J. Chem. Phys., 159, 114119 (2023), [[paper]](https://pubs.aip.org/aip/jcp/article/159/11/114119/2911780)
 2. J. J. Foley IV, J. McTague, A. E. DePrince, **Ab initio Methods for Polariton Chemistry**, Chem. Phys. Rev. 4, 041301 (2023), [[paper]](https://doi.org/10.1063/5.0167243)  
@@ -35,9 +33,9 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 11. E.J. Bylaska, A. Panyala, B. Peng, D. Mejia-Rodriguez, N. Govind, K. Kowalski, et al. **Electronic Structure Simulations in Cloud Computing Environment**, J. Chem. Phys. 161, 150902, 2024, [[paper]](https://pubs.aip.org/aip/jcp/article/161/15/150902/3317271)  
 12. R. R. Manderna, P. Roden, L. Tolley, N. Vu, J. J. Foley IV, **Computational Modeling of Polariton Chemistry**, American Chemical Society (2025), [[paper]](https://pubs.acs.org/doi/book/10.1021/acsinfocus.7e8013)
 
-### Outreach
+## Outreach
 In June 2024, the MAPOL team launched a computational chemistry workshop with the Molecular Science Software Institute (MolSSI) and the Department of Chemistry at University of North Carolina, Charlotte for undergraduate and graduate students. [[link]](https://pages.charlotte.edu/molssi-mapol-workshop/) 
 
-### Acknowledgements
+## Acknowledgements
 
 The Center for Many-Body Methods, Spectroscopies, and Dynamics for Molecular Polaritonic Systems (MAPOL) is funded under FWP 79715, which is funded as part of the Computational Chemical Sciences (CCS) program by the U.S. Department ofEnergy, Office of Science, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences at Pacific Northwest National Laboratory (PNNL). PNNL is a multiprogram national laboratory operated by Battelle Memorial Institute for the United States Department ofEnergy under DOE contract number DE-AC05-76RL1830.

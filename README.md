@@ -14,8 +14,8 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 ## Team
 
 **Pacific Northwest National Laboratory:** Niranjan “Niri” Govind (PI), Karol Kowalski (co-PI), Nicholas Bauman, Daniel Mejia-Rodriguez, Ajay Panyala, Erdal Mutlu, Marcus Liebenthal  
-**University of North Carolina, Charlotte:** Jonathan "Jay" Foley (co-PI), Nam Vu, Ruby Manderna, Peyton Roden, Austin Kepley
-**University of Washington, Seattle:** Xiaosong Li (co-PI), Samragni Banerjee, Kirill Shumilov, Tianyuan Zhang
+**University of North Carolina, Charlotte:** Jonathan "Jay" Foley (co-PI), Nam Vu, Ruby Manderna, Peyton Roden, Austin Kepley  
+**University of Washington, Seattle:** Xiaosong Li (co-PI), Samragni Banerjee, Kirill Shumilov, Tianyuan Zhang  
 **J. Heyrovsky Institute of Physical Chemistry:** Libor Veis, M. Matoušek  
  
 ## Publications

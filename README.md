@@ -20,9 +20,9 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
  
 ## Publications
 
-1. S. Banerjee, T. Zhang, K. G. Dyall, X. Li, **Relativistic Resolution-of-the-Identity with Cholesky Integral Decomposition**, J. Chem. Phys., 159, 114119 (2023), [[paper]](https://pubs.aip.org/aip/jcp/article/159/11/114119/2911780)
-2. J. J. Foley IV, J. McTague, A. E. DePrince, **Ab initio Methods for Polariton Chemistry**, Chem. Phys. Rev. 4, 041301 (2023), [[paper]](https://doi.org/10.1063/5.0167243)  
-3. B. Peng, Y. Su, D. Claudino, K. Kowalski, G. H. Low, M. Roetteler, **Quantum Simulation of Boson-Related Hamiltonians: Techniques, Effective Hamiltonian Construction, and Error Analysis** (2023), [[paper]](https://arxiv.org/abs/2307.06580)  
+1. J. J. Foley IV, J. McTague, A. E. DePrince, **Ab initio Methods for Polariton Chemistry**, Chem. Phys. Rev. 4, 041301 (2023), [[paper]](https://doi.org/10.1063/5.0167243)  
+2. S. Banerjee, T. Zhang, K. G. Dyall, X. Li, **Relativistic Resolution-of-the-Identity with Cholesky Integral Decomposition**, J. Chem. Phys., 159, 114119 (2023), [[paper]](https://pubs.aip.org/aip/jcp/article/159/11/114119/2911780)
+3. B. Peng, Y. Su, D. Claudino, K. Kowalski, G. H. Low, M. Roetteler, **Quantum Simulation of Boson-Related Hamiltonians: Techniques, Effective Hamiltonian Construction, and Error Analysis** (2023), [[paper]](https://arxiv.org/abs/2307.06580) (accepted)
 4. N. Vu, D. Mejia-Rodriguez, N. P. Bauman, A. Panyala, E. Mutlu, N. Govind, J. J. Foley IV, **Cavity Quantum Electrodynamics Complete Active Space Configuration Interaction Theory**, J. Chem. Theory. Comput, 20, 1214-1227 (2024) [[paper]](https://doi.org/10.1021/acs.jctc.3c01207)
 5. T. Zhang, S. Banerjee, L. N. Koulias, E. F. Valeev, A. E. DePrince, X. Li, **Dirac-Coulomb-Breit Molecular Mean-Field Exact-Two-Component Relativistic Equation-of-Motion Coupled-Cluster Theory**, J. Phys. Chem. A, 2024, 128, 3408-3418 (2024) [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c08167)  
 6. R. R. Manderna, N. Vu, J. J. Foley IV, **Comparing Parameterized and Self-Consistent Approaches to Ab initio CQED for Molecular Polaritonic Systems**, J. Chem. Phys. 161, 174105 (2024) [[paper]](https://pubs.aip.org/aip/jcp/article/161/17/174105/3318463)  
@@ -34,8 +34,9 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 12. R. R. Manderna, P. Roden, L. Tolley, N. Vu, J. J. Foley IV, **Computational Modeling of Polariton Chemistry**, American Chemical Society (2025) [[paper]](https://pubs.acs.org/doi/book/10.1021/acsinfocus.7e8013)
 
 ## Events
-In June 2024, the MAPOL team launched a computational chemistry workshop with the Molecular Science Software Institute (MolSSI) and the Department of Chemistry at University of North Carolina, Charlotte for undergraduate and graduate students. [[link]](https://pages.charlotte.edu/molssi-mapol-workshop/) 
 
-## Acknowledgements
+1. In June 2024, the MAPOL team launched a computational chemistry workshop with the Molecular Science Software Institute (MolSSI) and the Department of Chemistry at University of North Carolina, Charlotte for undergraduate and graduate students. [[link]](https://pages.charlotte.edu/molssi-mapol-workshop/)
+
+## Funding
 
 The Center for Many-Body Methods, Spectroscopies, and Dynamics for Molecular Polaritonic Systems (MAPOL) is funded under FWP 79715 as part of the Computational Chemical Sciences (CCS) program by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences at Pacific Northwest National Laboratory (PNNL). PNNL is a multiprogram national laboratory operated by Battelle Memorial Institute for the United States Department of Energy under DOE contract number DE-AC05-76RL1830.

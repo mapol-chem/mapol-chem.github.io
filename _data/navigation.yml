@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "GitHub"
+    url: /github/
+  - title: "Publications"
+    url: /publications/
+  - title: "Events"
+    url: /events/ 
+  - title: "Highlights"
+    url: /highlights/        

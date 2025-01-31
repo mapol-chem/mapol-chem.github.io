@@ -1,5 +1,43 @@
-theme: jekyll-theme-modernist
-title: Many-Body Methods, Spectroscopies, and Dynamics for Molecular Polaritonic Systems (MAPOL)
+title: MAPOL
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "contrast"
 
-gems:
-  - jekyll-mentions
+include: ["_pages"]
+
+breadcrumbs              : true
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+include:
+  - _pages
+
+# Outputting
+permalink: /:categories/:title/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false  
+

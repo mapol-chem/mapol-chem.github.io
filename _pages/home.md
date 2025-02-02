@@ -16,13 +16,6 @@ Our vision is to develop a suite of theoretical frameworks, spanning low-order t
 - **Objective 2:** Implement  polaritonic many-body methods to fully utilize modern heterogeneous (CPU/GPU) high-performance computing platforms at DOE’s LCFs.  
 - **Objective 3:** Apply developed methods to molecular polaritonic systems to validate, benchmark, and assess our developments with  reference systems, progressing to advanced applications to complement experiments to enhance fundamental understanding of polaritonic chemistry. 
 
-## Team
-
-**Pacific Northwest National Laboratory:** Niranjan “Niri” Govind (PI), Karol Kowalski (co-PI), Nicholas Bauman, Daniel Mejia-Rodriguez, Ajay Panyala, Erdal Mutlu, Marcus Liebenthal, Giridhar Nandipati, David Murphy    
-**University of North Carolina, Charlotte:** Jonathan "Jay" Foley (co-PI), Nam Vu, Ruby Manderna, Peyton Roden, Austin Kepley  
-**University of Washington, Seattle:** Xiaosong Li (co-PI), Samragni Banerjee, Kirill Shumilov, Tianyuan Zhang  
-**J. Heyrovsky Institute of Physical Chemistry:** Libor Veis, M. Matoušek  
-
 ## Funding
 
 The Center for Many-Body Methods, Spectroscopies, and Dynamics for Molecular Polaritonic Systems (MAPOL) is funded under FWP 79715 as part of the Computational Chemical Sciences (CCS) program by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences at Pacific Northwest National Laboratory (PNNL). PNNL is a multiprogram national laboratory operated by Battelle Memorial Institute for the United States Department of Energy under DOE contract number DE-AC05-76RL1830.

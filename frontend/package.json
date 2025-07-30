@@ -1,7 +1,7 @@
 {
-  "name": "mapol-web",
+  "name": "mapol-chem.github.io",
   "version": "0.1.0",
-  "homepage": "https://mapol-chem.github.io/mapol-web",
+  "homepage": "https://mapol-chem.github.io/",
   "private": true,
   "proxy": "http://127.0.0.1:5000",
   "dependencies": {

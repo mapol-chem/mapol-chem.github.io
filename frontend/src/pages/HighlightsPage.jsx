@@ -28,13 +28,6 @@ export const HighlightsPage = () => {
       <Stack>
         {highlightData.highlights.map((highlight, highlightIndex) => {
           const links = [];
-          // if (highlight.fileName) {
-          //   links.push({
-          //     label: 'Download Highlight',
-          //     url: `/mapol-web/assets/highlights/${highlight.fileName}`,
-          //   });
-          // }
-
           if (highlight.paperUrl) {
             links.push({ label: 'View Paper', url: highlight.paperUrl });
           }
@@ -59,7 +52,7 @@ export const HighlightsPage = () => {
                   }}
                 >
                   <Image
-                    src={`/mapol-web/assets/highlights/images/${highlight.featuredImage}`}
+                    src={`/assets/highlights/images/${highlight.featuredImage}`}
                     style={{
                       width: '100%',
                       height: '100%',

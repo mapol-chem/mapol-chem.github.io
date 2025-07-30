@@ -12,7 +12,7 @@ Installs required packages as specified in package.json
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:5173/mapol-web/](http://localhost:5173/mapol-web/) to view it in your browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -29,4 +29,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run deploy`
 
-Deploys the application using GitHub Pages to [https://mapol-chem.github.io/mapol-web/](https://mapol-chem.github.io/mapol-web/)
+Deploys the application using GitHub Pages to [https://mapol-chem.github.io](https://mapol-chem.github.io)

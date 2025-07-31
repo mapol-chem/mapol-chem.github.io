@@ -52,4 +52,4 @@ Stop the App
 
 Access the App
 
-Frontend: http://localhost:5173
+Frontend: http://localhost:5173/

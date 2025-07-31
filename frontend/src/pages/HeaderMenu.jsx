@@ -42,7 +42,7 @@ export function HeaderMenu() {
       label: 'Tutorials',
     },
     {
-      path: 'https://github.com/mapol-chem/mapol-web',
+      path: 'https://github.com/mapol-chem/mapol-chem.github.io',
       label: 'Github',
       newTab: true,
     },

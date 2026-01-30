@@ -19,9 +19,41 @@ import pub6 from '../images/publications/pub6.jpeg';
 import pub10 from '../images/publications/pub10.jpeg';
 import pub11 from '../images/publications/pub11.jpeg';
 import pub12 from '../images/publications/pub12.jpeg';
+import qed_ccsd_2025_pub from '../images/publications/qed-ccsd-2025.jpeg';
+import mgga_jpc_2025_pub from '../images/publications/mgga-jpc-2025.jpeg';
+import perspective_jctc_2025_pub from '../images/publications/perspective-jctc-2025.jpeg';
+import qed_cas_jctc_2025_pub from '../images/publications/qed-cas-jctc-2025.jpeg';
 
 export const Publications = () => {
   const publications = [
+    {
+      title: 'Quantum Electrodynamics Coupled-Cluster at Scale: High-Performance Implementation for Complex Systems',
+      authors: 'N. P. Bauman, H. Pathak, M. D. Liebenthal, A. Panyala, D. Mejia-Rodriguez, N. Govind, K. Kowalski',
+      journal: 'Journal of Chemical Theory and Computation (2025)',
+      link: 'https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c01599',
+      image: qed_ccsd_2025_pub
+    },
+    {
+      title: 'A Meta-Generalized Gradient Approximation for the Cavity-Dependent Exchange-Correlation Interaction in Strongly Coupled Light-Matter Systems',
+      authors: 'D. Mejia-Rodriguez, N. Govind',
+      journal: 'Journal of Chemical Physics (2025)',
+      link: 'https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02285',
+      image: mgga_jpc_2025_pub
+    },
+    {
+      title: 'Perspective on Many-Body Methods for Molecular Polaritonic Systems',
+      authors: 'N. P. Bauman, et al.',
+      journal: 'Journal of Chemical Theory and Computation (2025)',
+      link: 'https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00801',
+      image: perspective_jctc_2025_pub
+    },  
+    {
+      title: 'Modeling Strong Light-Matter Coupling in Correlated Systems: State-Averaged Cavity Quantum Electrodynamics Complete Active Space Self-Consistent Field Theory',
+      authors: 'N. Vu, K. Ampoh, M. Matoušek, L. Veis, Libor, N. Govind, J. J. Foley, IV',
+      journal: 'Journal of Chemical Theory and Computation (2025)',
+      link: 'https://pubs.acs.org/doi/10.1021/acs.jctc.5c00927',
+      image: qed_cas_jctc_2025_pub
+    },      
     {
       title: 'Ab initio Methods for Polariton Chemistry',
       authors: 'J. J. Foley IV, J. McTague, A. E. DePrince',
@@ -85,13 +117,6 @@ export const Publications = () => {
       title:
         'Real-Time Time-Dependent Cavity Quantum Electrodynamics in Gaussian Basis ',
       authors: 'D. Mejia-Rodriguez, N. Vu, J. J. Foley IV, N. Govind,',
-      journal: '',
-      status: 'in preparation',
-    },
-    {
-      title:
-        'A Meta-Generalized Gradient Approximation Exchange-Correlation Functional for Strongly Coupled Light-Matter Systems ',
-      authors: 'D. Mejia-Rodriguez, N. Govind',
       journal: '',
       status: 'in preparation',
     },
